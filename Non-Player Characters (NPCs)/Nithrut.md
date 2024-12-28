@@ -1,0 +1,1 @@
+Leader of the [[Blazing Fists]] faction within [Cepht](Cepht)

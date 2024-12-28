@@ -1,0 +1,1 @@
+Nation of Orcs that is undergoing a civil war between [Krall](Krall) , [Narak](Narak.md), and [Nithrut](Nithrut.md).

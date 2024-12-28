@@ -1,0 +1,1 @@
+Leader of the [Ironcrushers](Ironcrushers.md) faction within [Cepht](Cepht.md).

@@ -1,0 +1,1 @@
+Faction within [[Cepht]] lead by [[Nithrut]].

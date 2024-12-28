@@ -1,0 +1,1 @@
+Leader of the [Shatterminds](Shatterminds.md) faction within [Cepht](Cepht).

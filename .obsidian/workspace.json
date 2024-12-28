@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "562b862c30f94e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbcf28fef5dd8fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac0d1a842783a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Player Characters (NPCs)/Krall.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Krall"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3187398d9aa1ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "28acd16172f1df2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb5f27e0322cce3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "420069bc6ea747d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Vision",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5578c577e0b03c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da029197edd477fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f053236b68a5fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "263b88cfeae343cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Non-Player Characters (NPCs)/Krall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Krall"
+            }
+          },
+          {
+            "id": "208e23f256798d87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Non-Player Characters (NPCs)/Krall.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Krall"
+            }
+          },
+          {
+            "id": "e9e4aaffac15742d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "528efddcfd732d16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Non-Player Characters (NPCs)/Krall.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Krall"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ac0d1a842783a57",
+  "lastOpenFiles": [
+    "Non-Player Characters (NPCs)/Narak.md",
+    "Non-Player Characters (NPCs)/Nithrut.md",
+    "Places/Nations/Cepht/Ironcrushers.md",
+    "Places/Nations/Cepht/Shatterminds.md",
+    "Places/Nations/Cepht/Blazing Fists.md",
+    "MyFirstCanvas.canvas",
+    "Non-Player Characters (NPCs)/Krall.md",
+    "Non-Player Characters (NPCs)/Index.md",
+    "MyFirstCanvas.md",
+    "newlink.md",
+    "TestNote1.md",
+    "otherpage.md",
+    "sammyPage.md",
+    "2024-08-08.md",
+    "Black Liches.md",
+    "Player Characters (PCs)/Nar'ulth.md",
+    "Places/Nations/Cepht/Cepht.md",
+    "Gods/Godhood.md",
+    "The Plains/The Plains.md",
+    "Gods",
+    "The Plains/Progenitor Plain.md",
+    "The Plains/Shattered Realm.md",
+    "The Plains",
+    "Shatterd.md",
+    "The Plains/Material Plain.md",
+    "Plains.md",
+    "Blazing.md",
+    "Blazing-Fists.md",
+    "Places/Nations/Cepht",
+    "Places/Nations",
+    "Places",
+    "Factions",
+    "Non-Player Characters (NPCs)",
+    "Player Characters (PCs)",
+    "Note After Folder Notes",
+    "Folder Notes",
+    "Untitled.canvas"
+  ]
+}
