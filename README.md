@@ -1,1 +1,1 @@
-This is a DnD Setting organized using Obsidian and tracked using git. Putting it here so I don't have to pay for Obsidian stuff, can work on it on multiple devices, and overall just ~maybe~ do a bett job at the organization of it.
+This is a DnD Setting organized using Obsidian and tracked using git. Putting it here so I don't have to pay for Obsidian stuff, can work on it on multiple devices, and overall just _maybe_ do a bett job at the organization of it.
